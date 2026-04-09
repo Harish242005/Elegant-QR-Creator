@@ -33,3 +33,13 @@ Also supports barcodes, batch processing, QR decoding, and more.
 ## 📦 Requirements
 
 Create a file named `requirements.txt` and add:
+
+```txt
+streamlit
+opencv-python
+numpy
+pandas
+qrcode[pil]
+python-barcode
+Pillow
+cloudinary
